@@ -1,4 +1,5 @@
 # AI Community Solution
+(file_000000000f648abc123.png)
 
 ## Overview
 This project presents an AI-powered concept designed to help people who are struggling to find employment.
